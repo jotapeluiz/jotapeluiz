@@ -48,5 +48,5 @@ Continuously grow as a software developer and share knowledge with others.
 
 ## 📫 Contact
 
-* 📧 [Mail](mailto:jotape.dev@icloud.com)
+* 📧 [Email](mailto:jotape.dev@icloud.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/joaopauloluizlopes)
